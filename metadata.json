@@ -1,0 +1,6 @@
+{
+  "name": "KilatShare",
+  "description": "Kirim file antar perangkat dalam jaringan yang sama dengan cepat, aman, dan tanpa login. Menggunakan teknologi P2P WebRTC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
